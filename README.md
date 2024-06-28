@@ -21,7 +21,6 @@
 🎯 Actionable Steps:
 
 1. Enhance High-Performance Areas : Focus on Clothing and top profitable sub-categories.
-
 2. Address Loss Months : Investigate and strategize improvements.
 
 3. Optimize Payment Methods : Promote preferred and cost-effective options.
@@ -30,6 +29,4 @@
 
 5. Geographical Focus : Strengthen efforts in top-performing states.
 
-##Preview of Dashboard :
-file:///C:/Users/Vaishnavi%20Daule/Downloads/Krish%20ecommerce%20sales%20dashboard.pdf
 
