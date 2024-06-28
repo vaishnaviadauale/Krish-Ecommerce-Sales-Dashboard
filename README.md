@@ -30,3 +30,6 @@
 
 5. Geographical Focus : Strengthen efforts in top-performing states.
 
+##Preview of Dashboard :
+file:///C:/Users/Vaishnavi%20Daule/Downloads/Krish%20ecommerce%20sales%20dashboard.pdf
+
