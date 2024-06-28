@@ -1,6 +1,6 @@
 # Krish-Ecommerce-Sales-Dashboard
 
-🔍 Key Features:
+🔍 ##Key Features:
 
 🔯 Profit Insights: Monthly trends with January leading at 15K profit.
 
@@ -18,7 +18,7 @@
 
 
 
-🎯 Actionable Steps:
+🎯 ##Actionable Steps:
 
 1. Enhance High-Performance Areas : Focus on Clothing and top profitable sub-categories.
 2. Address Loss Months : Investigate and strategize improvements.
